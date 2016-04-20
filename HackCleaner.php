@@ -17,7 +17,7 @@
  */
  
  /**
-  * Check for command line parameters.
+  * Check for command line parameters. Report Only "-r", or Clean Mode "-c" (DELETES/MODIFIES FILES)
   *
   * Possible values: -r, -c
   *
