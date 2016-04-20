@@ -11,10 +11,9 @@
  * shennaniganry. So far this only searches for 4 different patterns I have encountered often, however
  * it is fairly simple to include a new pattern if you know how to use regular expression pattern matching.
  *
- * @category          Security
- * @subcategory       Intrusion Detection/Clean Up
+ * @category          Security - Intrusion Detection/Clean Up
  * @author            Xavious
- *
+ * @copyright         2016
  */
  
  /**
