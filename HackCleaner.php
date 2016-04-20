@@ -3,7 +3,7 @@
  * Shell based PHP script that searches for malcious code patterns using pcregrep.
  *
  * Intended to be run from the command line. This is a very simple script that searches for patterns I
- * have encountered very often in the Joomla and Worpress Content Management Systems (CMS). WARNING: Two
+ * have encountered very often in the Joomla and Worpress Content Management Systems (CMS). WARNING: 3
  * of these checks actually delete the entire file, because every time I have ever encountered them the
  * entire file was hacked code. The final check looks for a pattern that is typically embedded at the top
  * of a core file. Instead of deletion it will replace the entire first line of code, which is always
