@@ -21,7 +21,7 @@
   *
   * Possible values: -r, -c
   *
-  * Example command (Report Only): php HackClaner.php -r
+  * Example command (Report Only): php HackCleaner.php -r
   *
   * @var argv
   *
